@@ -1,3 +1,6 @@
 learning git
 
-making change 
+making change
+
+second  change
+ 
