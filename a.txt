@@ -2,4 +2,8 @@ learning git
 
 making change
 
+
 test for merging 
+
+making changes to a.txt in branch b1 
+
