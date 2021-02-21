@@ -1,3 +1,5 @@
 learning git
 
-making change 
+making change
+
+making changes to a.txt in branch b1 
